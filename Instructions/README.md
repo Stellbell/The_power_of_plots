@@ -71,7 +71,8 @@ Your tasks are to do the following:
 
 ### Final Analysis
 
-* Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of the notebook.
+* Look across all previous
+ly generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of the notebook.
 
 ## Hints and Considerations
 
